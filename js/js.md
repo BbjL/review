@@ -568,3 +568,19 @@ undefined表示"缺少值"，就是此处应该有一个值，但是还没有定
 https://www.ruanyifeng.com/blog/2014/03/undefined-vs-null.html
 ```
 
+### js滚轮事件
+
+https://blog.csdn.net/u014205965/article/details/46045099?utm_source=app
+
+```
+		事件监听                滚轮事件
+
+谷歌   addEventListener         onmousewheel
+
+ IE       attachEvent          onmousewheel
+
+ FF     addEventListener       DOMMouseScroll
+
+
+```
+
